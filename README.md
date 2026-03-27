@@ -1,8 +1,6 @@
 
 🔄 SkillSwap — Peer-to-Peer Skill Exchange Platform
 <img width="1717" height="1563" alt="logo" src="https://github.com/user-attachments/assets/bd4936a8-74e7-4297-9796-f6b8f67b6ef8" />
-![Uploading mockup.png…]()
-
 
 SkillSwap is a collaborative platform that enables individuals to exchange skills directly with one another — no money involved, just value-for-value learning. Whether you want to learn coding, design, music, or communication, SkillSwap connects you with people who can teach what you need, while you offer what you know.
 
